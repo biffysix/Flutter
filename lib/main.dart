@@ -44,7 +44,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          Text('A random idea: Holdy Boldy'), // <--example change
+          Text('A random AWESOME idea:'), // <--example change
           Text(pair.asLowerCase),              // ← Change to this.
 
               ElevatedButton(
